@@ -1,4 +1,3 @@
-WeatherKromeExtension
 WeatherKromeExtension is a simple Chrome extension that provides real-time weather information based on your current location. 
 With a clean and intuitive interface, it shows you the current temperature, weather condition, and location. 
 This extension is built using HTML, CSS, and JavaScript, and fetches weather data from the OpenWeatherMap API.
