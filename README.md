@@ -3,6 +3,7 @@ With a clean and intuitive interface, it shows you the current temperature, weat
 This extension is built using HTML, CSS, and JavaScript, and fetches weather data from the OpenWeatherMap API.
 
 Features :
+
 Displays real-time weather data based on your current location.
 Provides temperature, weather conditions, and the name of the location.
 Easy-to-use popup interface.
